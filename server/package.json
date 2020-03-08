@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/index.js",
-    "pm:start": "pm2 start src/index.js --no-daemon",
+    "pm:start": "pm2 start src/index.js",
     "pm:stop": "pm2 stop"
   },
   "author": "",
