@@ -1,0 +1,2 @@
+export const GET_ALL_DATA = 'GET_ALL_DATA';
+export const GET_PROVINCE_DATA = 'GET_PROVINCE_DATA';
